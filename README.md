@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Hourly work timers tracking billable service fees.
+  name: freelance-hourly-invoice version: 1.0 type: Repository author: VarshuAi description: >   Hourly work timers tracking billable service fees. primary_tech: CSS
 primary_tech: CSS
 ```
 
